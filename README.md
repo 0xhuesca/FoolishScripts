@@ -1,2 +1,3 @@
 # FoolishScripts
-This repository have some tools useful for day a day work
+
+This repository has some useful tools for daily work
