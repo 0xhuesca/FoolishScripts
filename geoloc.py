@@ -1,10 +1,8 @@
-##
+
 # URL hosting geolocalization 
-#
 # Requirement: pip3 install ip2geotools 
-#
 # Usage: python3 geoloc_url.py
-##
+
 
 import socket
 from ip2geotools.databases.noncommercial import DbIpCity
