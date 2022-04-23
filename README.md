@@ -2,5 +2,5 @@
 
 This repository has some useful tools for daily work
 
-- Geoloc_url.py : URL based geographically hosting server localization (public APIs). 
-- Passgen.py   : Basic password generator (simbols, numbers, lower/upper chars).
+- geoloc_url.py : URL based geographically hosting server localization (public APIs). 
+- passgen.py   : Basic password generator (simbols, numbers, lower/upper chars).
